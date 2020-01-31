@@ -1,0 +1,14 @@
+C:\Users\benhan\Desktop\Hawthrone\RandomDomainGenerator\RandomDomainGenerator\bin\Release\netcoreapp3.1\RandomDomainGenerator.exe
+C:\Users\benhan\Desktop\Hawthrone\RandomDomainGenerator\RandomDomainGenerator\bin\Release\netcoreapp3.1\Asset\Words.txt
+C:\Users\benhan\Desktop\Hawthrone\RandomDomainGenerator\RandomDomainGenerator\bin\Release\netcoreapp3.1\RandomDomainGenerator.deps.json
+C:\Users\benhan\Desktop\Hawthrone\RandomDomainGenerator\RandomDomainGenerator\bin\Release\netcoreapp3.1\RandomDomainGenerator.runtimeconfig.json
+C:\Users\benhan\Desktop\Hawthrone\RandomDomainGenerator\RandomDomainGenerator\bin\Release\netcoreapp3.1\RandomDomainGenerator.runtimeconfig.dev.json
+C:\Users\benhan\Desktop\Hawthrone\RandomDomainGenerator\RandomDomainGenerator\bin\Release\netcoreapp3.1\RandomDomainGenerator.dll
+C:\Users\benhan\Desktop\Hawthrone\RandomDomainGenerator\RandomDomainGenerator\bin\Release\netcoreapp3.1\RandomDomainGenerator.pdb
+C:\Users\benhan\Desktop\Hawthrone\RandomDomainGenerator\RandomDomainGenerator\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\benhan\Desktop\Hawthrone\RandomDomainGenerator\RandomDomainGenerator\obj\Release\netcoreapp3.1\RandomDomainGenerator.csprojAssemblyReference.cache
+C:\Users\benhan\Desktop\Hawthrone\RandomDomainGenerator\RandomDomainGenerator\obj\Release\netcoreapp3.1\RandomDomainGenerator.AssemblyInfoInputs.cache
+C:\Users\benhan\Desktop\Hawthrone\RandomDomainGenerator\RandomDomainGenerator\obj\Release\netcoreapp3.1\RandomDomainGenerator.AssemblyInfo.cs
+C:\Users\benhan\Desktop\Hawthrone\RandomDomainGenerator\RandomDomainGenerator\obj\Release\netcoreapp3.1\RandomDomainGenerator.csproj.CopyComplete
+C:\Users\benhan\Desktop\Hawthrone\RandomDomainGenerator\RandomDomainGenerator\obj\Release\netcoreapp3.1\RandomDomainGenerator.dll
+C:\Users\benhan\Desktop\Hawthrone\RandomDomainGenerator\RandomDomainGenerator\obj\Release\netcoreapp3.1\RandomDomainGenerator.pdb

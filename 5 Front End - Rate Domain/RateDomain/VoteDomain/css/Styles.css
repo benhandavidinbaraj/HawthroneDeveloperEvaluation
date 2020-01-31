@@ -1,0 +1,225 @@
+﻿body {
+    
+}
+
+div#wrapperHeader {
+    width: 100%;
+    height:75px;
+    text-align: center;
+}
+
+div#wrapperHeader div#header {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+div#wrapperHeader div#header img {
+    width: auto; 
+    height: auto;
+    margin: 0 auto;
+}
+a:hover {
+    cursor: pointer;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html.open, body.open {
+    height: 100%;
+    overflow: hidden;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    
+    font-size: 1.6rem;
+    font-family: 'Lato', sans-serif;
+}
+
+p {
+    text-align: center;
+    margin: 20px 0 60px;
+}
+
+main {
+    background-color: #2C3845;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 300;
+}
+
+table {
+    display: block;
+    background-color: #e9f6d2;
+}
+
+tr, td, tbody, tfoot {
+    display: block;
+}
+
+thead {
+    display: none;
+}
+
+tr {
+    padding-bottom: 10px;
+}
+
+td {
+    padding: 10px 10px 0;
+    text-align: center;
+}
+
+    td:before {
+        content: attr(data-title);
+        color: #638e1d;
+        text-transform: uppercase;
+        font-size: 1.4rem;
+        padding-right: 10px;
+        display: block;
+    }
+
+table {
+    width: 100%;
+}
+
+th {
+    text-align: left;
+    font-weight: 700;
+}
+
+thead th {
+    background-color: #12460e;
+    color: #fff;
+    border: 1px solid #202932;
+}
+
+tfoot th {
+    display: block;
+    padding: 10px;
+    text-align: center;
+    color: #b8c4d2;
+}
+
+#Scrollbutton {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    position: absolute;
+    top: 40px;
+    right: 10px;
+    -webkit-transition: all 1s ease-in-out;
+    transition: all 1   s ease-in-out;
+    z-index: 1;
+    box-sizing: border-box;
+}
+
+.AddVoteButton {
+    line-height: 1;
+    display: inline-block;
+    font-size: medium;
+    text-decoration: none;
+    border-radius: 5px;
+    color: #fff;
+    padding: 6px;
+    background-color: #638e1d;
+    margin-left:6px;
+}
+
+.RemoveVotebutton {
+    line-height: 1;
+    display: inline-block;
+    font-size: medium;
+    text-decoration: none;
+    border-radius: 5px;
+    color: #fff;
+    padding: 6px;
+    background-color: #c74242;
+}
+
+.bottomBorder {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #28333f;
+}
+
+@media only screen and (min-width: 600px) {
+    td {
+        text-align: left;
+    }
+
+        td:before {
+            display: inline-block;
+            text-align: right;
+            width: 140px;
+        }
+
+    .select {
+        padding-left: 160px;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    table {
+        display: table;
+    }
+
+    tr {
+        display: table-row;
+    }
+
+    td, th {
+        display: table-cell;
+    }
+
+    tbody {
+        display: table-row-group;
+    }
+
+    thead {
+        display: table-header-group;
+    }
+
+    tfoot {
+        display: table-footer-group;
+    }
+
+    td {
+        border: 1px solid #28333f;
+    }
+
+        td:before {
+            display: none;
+        }
+
+    td, th {
+        padding: 10px;
+    }
+
+    tr:nth-child(2n+2) td {
+        background-color: #c5d8a1;
+    }
+
+    tfoot th {
+        display: table-cell;
+    }
+
+    .select {
+        padding: 10px;
+    }
+}
